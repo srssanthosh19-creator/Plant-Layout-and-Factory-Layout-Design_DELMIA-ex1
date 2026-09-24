@@ -1,4 +1,4 @@
-Construct an efficient plant or factory layout for a manufacturing your suggest product by strategically arranging machines, workstations, storage areas, and material handling systems to optimize workflow, minimize production time, and reduce costs, while considering factors such as space utilization, safety regulations, worker ergonomics, and future scalability, and create a detailed layout model that integrates equipment placement with logical process flow, ensuring smooth coordination between different production stages and effective assembly operations.
+
 TITLE OF THE PRODUCT AUTOMOBILE PARTS PRODUCTION FACTORY
 DESCRIPTION
 The factory is designed for the mass production of automotive components such as brake discs, brake calipers, steering knuckles, transmission shafts, wheel hubs, and suspension brackets. The facility integrates machining, assembly, quality inspection, warehousing, and logistics operations within a digitally simulated manufacturing environment using DELMIA.
