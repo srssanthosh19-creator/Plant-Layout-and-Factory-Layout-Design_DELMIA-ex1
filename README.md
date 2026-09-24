@@ -1,5 +1,7 @@
 
 TITLE OF THE PRODUCT AUTOMOBILE PARTS PRODUCTION FACTORY
+
+
 DESCRIPTION
 The factory is designed for the mass production of automotive components such as brake discs, brake calipers, steering knuckles, transmission shafts, wheel hubs, and suspension brackets. The facility integrates machining, assembly, quality inspection, warehousing, and logistics operations within a digitally simulated manufacturing environment using DELMIA.
 
